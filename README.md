@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 * Apply a distortion correction to raw images. &#10004;
 * Use color transforms, gradients, etc., to create a thresholded binary image. &#10004;
 * Apply a perspective transform to rectify binary image ("birds-eye view"). &#10004;
-* Detect lane pixels and fit to find the lane boundary.
+* Detect lane pixels and fit to find the lane boundary. &#10004;
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
